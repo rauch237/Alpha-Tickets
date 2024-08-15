@@ -1,0 +1,17 @@
+.navbar-nav .nav-link.active {
+  color: rgb(234, 105, 58);
+}
+.navbar-nav .nav-link:hover {
+  color: rgb(234, 105, 58) !important;
+}
+.login-btn {
+  border: 2px solid rgb(234, 105, 58);
+  color: rgb(234, 105, 58);
+}
+.login-btn:hover {
+  background-color: rgb(234, 105, 58);
+  color: white;
+}
+.navbar-brand img {
+  height: 40px;
+}
