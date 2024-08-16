@@ -6,7 +6,7 @@ const Form_Popup = ({setShowForm}) => {
     <div
       style={{ width: "100%", alignItems: "center", justifyContent: "center" }}
     >
-      {/* <div className="blur-bg-overlay"></div> */}
+      <div className="blur-bg-overlay"></div>
 
       <div className="form-popup">
         <span

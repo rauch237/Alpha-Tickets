@@ -65,14 +65,14 @@
 
 .login .form-details {
   padding: 0 40px;
-  background: url("images/login-img.jpg");
+  background: url("../../../public/images/login-img.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .signup .form-details {
   padding: 0 20px;
-  background: url("images/signup-img.jpg");
+  background: url("../../../public/images/signup-img.jpg");
   background-position: center;
   background-size: cover;
 }
